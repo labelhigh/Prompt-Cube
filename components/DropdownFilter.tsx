@@ -1,4 +1,4 @@
-import React, 'react';
+import React from 'react';
 import { ChevronDownIcon } from './Icons';
 
 interface DropdownFilterProps<T extends string> {
